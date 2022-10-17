@@ -1,0 +1,149 @@
+
+body{
+    background: linear-gradient(to right, #1a2980, #26d0ce);
+    overflow: auto;
+}
+
+.ImagenFondo{
+    margin-top:-8px;
+    margin-left:-10px;
+    width: 1368px;
+    height: 613px;
+    opacity: 0.55;
+}
+
+     /*MENÚ*/
+
+.FondoBotones{
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+    width: 1368px;
+    height: 100px;
+    margin-top: -617px;
+    margin-left:-10px;
+    position: absolute;
+    /* opacity: 0.80; */
+    /*background: #acb6e5;  /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);*/  /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #86fde8, #acb6e5);*/ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.Logo{
+    position: absolute;
+    width: 133px;
+    height: 111px;
+    left: 0px;
+    top: 0px;
+}
+.BotonAmbiente {
+    /*Letra*/
+    position: absolute;
+    width: 176px;
+    height: 31px;
+    left: 223px;
+    top: 35px;
+
+    text-decoration: none;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    /* display: flex; */
+    /* align-items: center;
+    text-align: center; */
+  
+    color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.SeguridadySalud{
+    /*Letra*/
+    position: absolute;
+    width: 191px;
+    height: 31px;
+    left: 544px;
+    top: 35px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.QuienesSomos{
+    /*Letra*/
+    position: absolute;
+    width: 166px;
+    height: 31px;
+    left: 882px;
+    top: 35px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+/*Noticias*/
+aside{
+    width: 300px;
+    height: 500px;
+    margin-left: 1030px;
+    margin-top:-510px;
+    position: absolute;
+}
+.Noticias{
+    position: absolute;
+    width: 300px;
+    height: 180px;
+    margin: 2px;
+    border-radius: 20px;
+    border-style: double;
+    border-color:#c2e59c #64b3f4; 
+}
+
+.Vago{
+    position: absolute;
+    width: 300px;
+    height: 180px;
+    margin-top: 200px;
+    margin-left: 2px;
+    border-radius: 20px;
+    border-style: double;
+    border-color:#c2e59c #64b3f4; 
+}
+
+section{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    left: 700px;
+    margin-top:-510px;
+}
+
+.iframe{
+    position: absolute;
+    width: 557px;
+    height: 365px;
+    left: -660px;
+    top: 10px;
+    border-radius: 20px;
+    border-style: double;
+    border-color:#c2e59c #64b3f4; 
+}
+
